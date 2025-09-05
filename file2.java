@@ -3,6 +3,6 @@ public class file2
     public static void main(String[] args)
     {
       System.out.println("Hello world");
-      System.out.println("hello india");
+      System.out.println("hello india"); 
     }
   }
